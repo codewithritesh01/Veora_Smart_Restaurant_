@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Sensitive Configurations (NEVER commit these!)
+.env
+.env.local
+.env.*.local
+
+# User Uploads and Media (Local storage only)
+uploads/
+media/Recipe_Images/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
