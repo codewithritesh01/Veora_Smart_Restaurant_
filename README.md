@@ -177,7 +177,7 @@ All core machine learning assets are organized under `backend/final_model/` to s
 The sales forecasting model predicts restaurant demand for the next 7 days based on advanced lag and rolling window metrics. It updates daily and automatically populates the `sales_forecast` and `inventory_forecast` collections in MongoDB.
 
 #### 📊 Demand & Sales Forecast Output
-![Sales Forecast](assets/Screenshot 2026-05-21 114747.png)
+![Sales Forecast](assets/Screenshot%202026-05-21%20114747.png)
 
 ### 🍕 Plate Waste Tracker (YOLOv8)
 The plate waste segmentation module uses computer vision to detect plate area vs leftover food area. 
@@ -187,12 +187,12 @@ The plate waste segmentation module uses computer vision to detect plate area vs
 - Reaching **500 points** auto-generates a dynamic restaurant discount coupon code!
 
 #### 📸 Plate Waste AI Analysis Examples (YOLOv8 Output Case)
-![Leftover Analysis](assets\Screenshot 2026-05-21 153900.png)
+![Leftover Analysis](assets/Screenshot%202026-05-21%20153900.png)
 
 ---
 
 #### 📦 Live Inventory Management & Forecasts
-![Inventory Forecast](assets/Screenshot 2026-05-21 114823.png)
+![Inventory Forecast](assets/Screenshot%202026-05-21%20114823.png)
 
 ---
 

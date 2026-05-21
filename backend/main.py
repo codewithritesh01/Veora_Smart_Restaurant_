@@ -31,7 +31,6 @@ async def lifespan(app: FastAPI):
             "total_points": 0,
             "created_at": get_current_ist(),
         })
-        print("Default admin created: admin@test.com / admin123")
     yield
     # Shutdown logic (if any) could go here
 
