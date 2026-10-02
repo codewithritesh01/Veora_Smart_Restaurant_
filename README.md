@@ -159,7 +159,7 @@ The frontend is a static single-page React app, perfect for high-performance CDN
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
 5. Under **Environment Variables**, add:
-   - `VITE_API_URL`: `https://your-backend-service-domain.onrender.com`
+   - `VITE_API_URL`: `https://your-backend-service-domain.com`
 6. Click **Deploy**.
 
 ---
